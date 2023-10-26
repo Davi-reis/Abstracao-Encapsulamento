@@ -1,0 +1,14 @@
+C:\Dev\Aula-Abstracao-Encapsulamento\bin\Debug\net7.0\Aula-Abstracao-Encapsulamento.exe
+C:\Dev\Aula-Abstracao-Encapsulamento\bin\Debug\net7.0\Aula-Abstracao-Encapsulamento.deps.json
+C:\Dev\Aula-Abstracao-Encapsulamento\bin\Debug\net7.0\Aula-Abstracao-Encapsulamento.runtimeconfig.json
+C:\Dev\Aula-Abstracao-Encapsulamento\bin\Debug\net7.0\Aula-Abstracao-Encapsulamento.dll
+C:\Dev\Aula-Abstracao-Encapsulamento\bin\Debug\net7.0\Aula-Abstracao-Encapsulamento.pdb
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\Aula-Abstracao-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\Aula-Abstracao-Encapsulamento.AssemblyInfoInputs.cache
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\Aula-Abstracao-Encapsulamento.AssemblyInfo.cs
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\Aula-Abstracao-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\Aula-Abstracao-Encapsulamento.dll
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\refint\Aula-Abstracao-Encapsulamento.dll
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\Aula-Abstracao-Encapsulamento.pdb
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\Aula-Abstracao-Encapsulamento.genruntimeconfig.cache
+C:\Dev\Aula-Abstracao-Encapsulamento\obj\Debug\net7.0\ref\Aula-Abstracao-Encapsulamento.dll
